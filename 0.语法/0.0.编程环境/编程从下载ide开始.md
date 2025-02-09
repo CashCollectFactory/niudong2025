@@ -6,10 +6,33 @@
 
 ## 新手
 
-C++：使用简单易上手的[DevCpp6.5](0.语法\0.0.编程环境\DevCpp6.5.exe)
+C++：[DevCpp6.5](https://soft.3dmgame.com/down/207888.html)  
+Java：[idea](https://www.jetbrains.com/idea/download/other.html)  
+Python：[PyCharm](https://www.jetbrains.com/pycharm/download/other.html)  
+
+上面这些ide简单易上手，适合新手。  
 
 ## 老手
 
 推荐使用[vscode](https://code.visualstudio.com/)，以及 cph 插件 (Competitive Programming Helper) 。  
 根据你的需要，自行安装各种语言对应的编译器。  
 
+### C++
+
+Clang++ https://github.com/mstorsjo/llvm-mingw/releases  
+G++ https://winlibs.com/  
+
+需要注意的是，这里下载的是压缩包，解压之后要把bin目录添加到windows环境变量中。  
+
+### Java
+
+JDK https://www.oracle.com/java/technologies/downloads/archive/
+
+操作流程参考 https://www.jb51.net/article/243119.htm  
+
+### Python
+
+Python https://www.python.org/downloads/  
+PyPy https://downloads.python.org/pypy/  
+
+安装时会提醒，是否将python添加到环境变量中，选择“是”。  
